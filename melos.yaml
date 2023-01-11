@@ -1,0 +1,4 @@
+name: superapp
+packages:
+  - "apps/**"
+  - "packages/**"
